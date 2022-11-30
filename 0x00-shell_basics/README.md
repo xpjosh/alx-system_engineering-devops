@@ -6,3 +6,4 @@ Added command to list all files including hidden ones
 Command to list all files with digit only
 Task 6. Welcome
 Task 7. Betty in my first directory
+Task 8. Bye bye betty

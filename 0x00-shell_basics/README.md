@@ -7,3 +7,4 @@ Command to list all files with digit only
 Task 6. Welcome
 Task 7. Betty in my first directory
 Task 8. Bye bye betty
+Bye bye my first directory

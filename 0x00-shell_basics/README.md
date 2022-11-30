@@ -4,3 +4,4 @@ Added command to bring me home
 Added list all files command 
 Added command to list all files including hidden ones
 Command to list all files with digit only
+Task 6. Welcome

@@ -5,3 +5,4 @@ Added list all files command
 Added command to list all files including hidden ones
 Command to list all files with digit only
 Task 6. Welcome
+Task 7. Betty in my first directory

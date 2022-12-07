@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "root" /etc/paaswd
+grep "root" /etc/paaswd
